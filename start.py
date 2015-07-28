@@ -64,5 +64,3 @@ for line in f:
 
 updateTrackData(trackrecords)
 print(number)
-
-
